@@ -1,0 +1,8 @@
+Your task: choose one of these two "provocations" with which to agree, disagree, or otherwise respond.
+Or, select another statement of your choice: there are many with which to take issue!
+
+The article discusses whether we are witnessing the dawn of post-theory. Chris Anderson argues that computers are better at finding relationships than humans, and scientific methods (such as hypotheses and tests) will not function. I disagree with the point for several reasons. 
+
+First, although many theories cannot be explained mathematically, they can be explained alone in words and are still based on computations and data collection. For instance, though the social effects of Facebook’s daily prediction offer no mathematical explanation, it is based on users’ behavior and demonstrated preferences when using the application, which are data inputs to the software.
+
+While many phenomena cannot be explained using theories, it is because they have yet to be uncovered. New theories might be out of our recognition by being different from traditional ideas. An example to illustrate is the neural nets in the article. Unlike a conventional approach that claims how people make decisions, the new system is more like a three-diagram with specific constraints. 
