@@ -1,0 +1,26 @@
+# hw6 pr4 "recursive power"
+#
+# Name(s): 
+#
+# Hmmm...
+#
+# This is a placeholder - you'll replace this code...
+#   gold and black:  see the hw6pr4 description for starter code (power)
+#
+
+
+0 read r1    # r1 (x)
+1 read r2    # get an input from the user, r2 (y)
+2 setn r3 1  # r3 = 1
+3 nop
+
+4 jeqzn r2   11  # if r2 = 0, return 1
+5 mul r3 r1 r3   # r3 = r1 * r2
+6 nop
+7 addn r2 -1     # r2 = r2 -1 (# of counts - 1)
+8 jumpn 4        # recursion, jump to line 4
+
+9 nop
+10 addn r3 1
+11 write r3      # print r3
+12 halt          # halt
