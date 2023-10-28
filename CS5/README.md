@@ -7,4 +7,4 @@ Solutions for CS5 homeworks and labs.
 # HW6/7 and Lab 6/7
 # HW8 and Lab 8
 
-The webpage for CS5 can be found [here](https://www.google.com](https://www.cs.hmc.edu/twiki/bin/view/CS5/WebHome)https://www.cs.hmc.edu/twiki/bin/view/CS5/WebHome)
+The webpage for CS5 can be found [here](https://www.google.com](https://www.cs.hmc.edu/twiki/bin/view/CS5/WebHome)https://www.cs.hmc.edu/twiki/bin/view/CS5/WebHome)。The course description can be found [here](Course description: https://www.hmc.edu/cs/academic-programs/course-descriptions/)
