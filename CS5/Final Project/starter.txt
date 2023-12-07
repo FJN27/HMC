@@ -1,0 +1,14 @@
+Final Project Description
+
+The project aims to design a Tic-tac-toe board game by adapting and expanding codes from homework 11 and 9. The basic rule for the game is two players taking turns to make spaces in three times three grids with "O" and "X." The player who succeeds in placing three marks consecutively (vertically, horizontally, and diagonally) wins the game.
+
+The program's two players are the user and the AI (computer). Some main designs for the game are (some are not finished yet):
+•	The traditional version of the Tic-tac-toe game with models for the computer to place its marks. 
+•	A varied version of the game: The user can decide the board's dimension and the number of marks (O or X) that need to appear to win.
+ 
+Some major components of the program are:
+•	hostgame(): ‘hostgame()’ connects all other functions. It serves as the interface for users and the computer to interact. Additions to codes from homework 11 include:
+o	A loop for users to decide their input (either 'O' or 'X'). The loop repeats itself if the input is unavailable and allows exiting the game (if the user requires it).
+o	A loop for users to decide whether they or AI goes first. This is essential because whoever goes first is more advantaged if taking the central position(3,3) (This is supported mathematically). If AI goes first, the function aiMove() should implement an algorithm.  
+o	A loop allows users to decide whether to play the game again. 
+•	aiMove(): The function determines how AI's output.
