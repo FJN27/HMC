@@ -1,0 +1,15 @@
+2. The Economist summary distinguishes between "thinking" and GPT-3's "drawing on its vast database" of absorbed information...
+
+Contrast the processes of "thinking" and "drawing on a database" for you: are they irreconcilable? loosely related? very similar? something else?
+What parts of your own internal processing would you describe as "thinking" vs. "computing"?
+For you, to what extent is self-knowledge a crucial prerequisite for consciousness? Is your view more stringent, less stringent, or perhaps framed differently than the article's?
+
+
+
+The article discusses whether artificial intelligence has consciousness by understanding its behavior and outputs given to users. The concepts of “thinking” and “drawing on a database” are loosely related, and artificial intelligence mainly relies on the latter through computational processes. 
+
+While responding and producing inputs based on users’ questions, AI performs the task without comprehending the “semantics” of their behavior. They only give “syntax.” An example to illustrate this is when asking Chat-GPT (or the internet in general) how to write “hello” in Chinese, which gives the exact correct characters to users. However, the characters are only geometric representations of horizontal, vertical, and curved lines, which are syntax. It cannot understand the semantics, such as “hello” is a way to show friendliness, to greet new people, etc., of the characters. From the example, we can see that outputs given by AI are only symbols, and they lack the ability to gain knowledge and understand data themselves.  
+
+One part of my internal processing that I will describe as “thinking” is constructing my responses for the assignment. Since there are no formulated and correct responses, the reactions are all based on my subjective views and the extent to which I agree or disagree with the author. In other words, completing the assignment creates something rather than “computation.” One of my internal processes for computation was when doing my chemistry lab, especially last week. Without actually understanding the reaction and what was happening, I followed the instructions using different apparatus and devices. Though I do not know for my actions, I successfully formed the required white solids.
+
+For me, self-knowledge is a necessary condition for being conscious. With understanding and knowing our behaviors, one can follow instructions given by external existences and operate based on pre-trained needs. 
